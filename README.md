@@ -42,8 +42,6 @@ Based on the results, it appears that:
 Two additional recommendations for visualizations would be to include cost data. Investors would be interested in learning about the cost and the profit of this type of business. Additional data in logistics would also be helpful.  For example, in the areas where bikes are used more often what types of business are around? Is parking an issue or are bus routes limited?
 
 
-
-
-
+[link to dashboard](https://public.tableau.com/profile/johanna.pina#!/)
 
 
